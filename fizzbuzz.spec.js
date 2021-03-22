@@ -10,3 +10,14 @@ describe("fizzbuzz", () => {
   it.todo("returns buzzbizz for a number that is divisible by 5 and 7");
   it.todo("returns fizzbuzzbizz for a number that is divisible by 3, 5 and 7");
 });
+
+
+/*
+
+# Exercise
+
+1. Write Specs
+2. improve/refactor code for better readability
+3. play code golf. Par: ~170, To Beat: 102
+
+*/
